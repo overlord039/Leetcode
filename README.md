@@ -26,6 +26,7 @@ A collection of LeetCode questions
 | [1390-average-selling-price](https://github.com/overlord039/Leetcode/tree/master/1390-average-selling-price) |
 | [1480-movie-rating](https://github.com/overlord039/Leetcode/tree/master/1480-movie-rating) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/overlord039/Leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1811-fix-names-in-a-table](https://github.com/overlord039/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/overlord039/Leetcode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/overlord039/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/overlord039/Leetcode/tree/master/1942-primary-department-for-each-employee) |
