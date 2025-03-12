@@ -42,4 +42,16 @@ A collection of LeetCode questions
 | [2057-count-salary-categories](https://github.com/overlord039/Leetcode/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/overlord039/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/overlord039/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/overlord039/Leetcode/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/overlord039/Leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/overlord039/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
