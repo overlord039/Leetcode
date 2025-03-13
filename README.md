@@ -50,6 +50,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/overlord039/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/overlord039/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -59,4 +60,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/overlord039/Leetcode/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/overlord039/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
