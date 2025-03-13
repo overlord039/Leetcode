@@ -67,6 +67,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/overlord039/Leetcode/tree/master/0007-reverse-integer) |
 | [0371-sum-of-two-integers](https://github.com/overlord039/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
