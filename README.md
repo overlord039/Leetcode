@@ -62,6 +62,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/overlord039/Leetcode/tree/master/0001-two-sum) |
+| [0238-product-of-array-except-self](https://github.com/overlord039/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/overlord039/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -92,4 +93,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/overlord039/Leetcode/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/overlord039/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
