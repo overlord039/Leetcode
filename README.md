@@ -72,5 +72,10 @@ A collection of LeetCode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/overlord039/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/overlord039/Leetcode/tree/master/0371-sum-of-two-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/overlord039/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
