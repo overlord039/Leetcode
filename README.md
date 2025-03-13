@@ -47,6 +47,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/overlord039/Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/overlord039/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/overlord039/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -56,10 +57,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/overlord039/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/overlord039/Leetcode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/overlord039/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/overlord039/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,11 +71,13 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/overlord039/Leetcode/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/overlord039/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/overlord039/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/overlord039/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/overlord039/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/overlord039/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/overlord039/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Divide and Conquer
@@ -83,4 +88,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/overlord039/Leetcode/tree/master/0338-counting-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/overlord039/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
