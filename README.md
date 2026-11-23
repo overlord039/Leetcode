@@ -62,6 +62,7 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/overlord039/Leetcode/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/overlord039/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/overlord039/Leetcode/tree/master/0268-missing-number) |
 ## Array
@@ -69,12 +70,14 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/overlord039/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/overlord039/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/overlord039/Leetcode/tree/master/0016-3sum-closest) |
 | [0238-product-of-array-except-self](https://github.com/overlord039/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/overlord039/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/overlord039/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/overlord039/Leetcode/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/overlord039/Leetcode/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
