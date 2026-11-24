@@ -4,15 +4,16 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
+        i=0
+        n=len(s)
+        s1=""
         count=0
-        for i in range(len(s)):
-            a=set()
-            for j in range(i,len(s)):
-                if s[j] in a:
-                    break
-                a.add(s[j])
-                count=max(count,j-i+1)
+        while i<n:
+            if s[i] not in s1:
+                s1+=s[i]
+                count=max(count,len(s1))
+            else:
+                s1=s1[s1.index(s[i])+1:]
+                continue
+            i+=1
         return count
-                
-
-        
