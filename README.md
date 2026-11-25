@@ -74,6 +74,7 @@ A collection of LeetCode questions
 | [0014-longest-common-prefix](https://github.com/overlord039/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/overlord039/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/overlord039/Leetcode/tree/master/0016-3sum-closest) |
+| [0039-combination-sum](https://github.com/overlord039/Leetcode/tree/master/0039-combination-sum) |
 | [0238-product-of-array-except-self](https://github.com/overlord039/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/overlord039/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -131,4 +132,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/overlord039/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/overlord039/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
